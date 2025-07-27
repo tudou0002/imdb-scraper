@@ -1,0 +1,482 @@
+TitlePrefix,imdbID,genre
+The Office,,
+Friends,,
+Brooklyn Nine-Nine,tt2467372,"Comedy,Crime"
+Grey's Anatomy,tt0413573,"Drama,Romance"
+Family Guy,tt0182576,"Animation,Comedy"
+Modern Family,tt1442437,"Comedy,Drama,Romance"
+How I Met Your Mother,tt0460649,"Comedy,Drama,Romance"
+Suits,,
+Pretty Little Liars,,
+Gilmore Girls,tt0238784,"Comedy,Drama"
+Gossip Girl,,
+Breaking Bad,tt0903747,"Crime,Drama,Thriller"
+Full House,,
+Riverdale,,
+The Fresh Prince of Bel-Air,tt0098800,Comedy
+Schitt's Creek,tt3526078,Comedy
+Community,tt1439629,Comedy
+New Girl,tt1826940,"Comedy,Romance"
+Superstore,tt4477976,Comedy
+Shameless (U.S.),,
+Stranger Things,,
+The Flash,,
+Star Trek,tt0060028,"Action,Adventure,Sci-Fi"
+Teen Titans Go!,tt2771780,"Action,Adventure,Animation"
+Glee,tt1327801,"Comedy,Drama,Music"
+Arrested Development,tt0367279,Comedy
+Lucifer,tt4052886,"Crime,Drama,Fantasy"
+Jane The Virgin,,
+Fuller House,tt3986586,"Comedy,Drama,Family"
+Prison Break,,
+The Blacklist,tt2741602,"Crime,Drama,Mystery"
+Parks and Recreation,tt1266020,Comedy
+SpongeBob SquarePants,tt0206512,"Animation,Comedy,Family"
+13 Reasons Why,tt1837492,"Drama,Mystery,Thriller"
+The Walking Dead,tt1520211,"Drama,Horror,Thriller"
+Naruto,tt0409591,"Action,Adventure,Animation"
+Victorious,,
+The Fosters,,
+The Vampire Diaries,tt1405406,"Drama,Fantasy,Horror"
+That '70s Show,tt0165598,"Comedy,Drama,Romance"
+Orange Is the New Black,tt2372162,"Comedy,Crime,Drama"
+Naruto Shippuden,,
+iCarly,,
+Ozark,tt5071412,"Crime,Drama,Thriller"
+How to Get Away With Murder,,
+The 100,tt2661044,"Drama,Mystery,Sci-Fi"
+You,,
+The Good Place,tt4955642,"Comedy,Drama,Fantasy"
+The Mindy Project,tt2211129,Comedy
+The Crown,tt4786824,"Biography,Drama,History"
+This Is Us,tt5555260,"Comedy,Drama,Romance"
+Narcos,,
+Seinfeld,tt0098904,Comedy
+Outer Banks,tt10293938,"Action,Crime,Drama"
+American Dad!,tt0397306,"Animation,Comedy"
+Life in Pieces,tt4384086,Comedy
+Scandal,,
+Downton Abbey,tt1606375,"Drama,Romance"
+Kim's Convenience,tt5912064,Comedy
+Peaky Blinders,tt2442560,"Crime,Drama"
+Money Heist,tt6468322,"Action,Crime,Drama"
+Trailer Park Boys,tt0290988,"Comedy,Crime"
+90210,tt1225901,"Comedy,Drama,Romance"
+Big Mouth,,
+Dynasty,,
+My Little Pony,,
+Supernatural,tt0460681,"Drama,Fantasy,Horror"
+Once Upon a Time,,
+PAW Patrol,tt3121722,"Adventure,Animation,Comedy"
+LEGO Ninjago,,
+Sex Education,tt7767422,"Comedy,Drama,Romance"
+Squid Game,tt10919420,"Action,Drama,Mystery"
+Manifest,tt8421350,"Drama,Mystery,Sci-Fi"
+Better Call Saul,tt3032476,"Crime,Drama"
+Grace and Frankie,tt3609352,Comedy
+Never Have I Ever,,
+House of Cards,tt1856010,Drama
+Hunter X Hunter (2011),,
+Sons of Anarchy,tt1124373,"Crime,Drama,Thriller"
+Young Sheldon,tt6226232,Comedy
+Too Hot to Handle,tt12004280,"Game-Show,Reality-TV,Romance"
+The Good Wife,,
+Love Is Blind,,
+The Umbrella Academy,tt1312171,"Action,Adventure,Comedy"
+Archer,,
+Bridgerton,tt8740790,"Drama,Romance"
+Emily in Paris,tt8962124,"Comedy,Drama,Romance"
+Switched at Birth,tt1758772,"Drama,Family,Romance"
+Supergirl,tt4016454,"Action,Adventure,Drama"
+BoJack Horseman,tt3398228,"Animation,Comedy,Drama"
+Designated Survivor,tt5296406,"Action,Drama,Mystery"
+Selling Sunset,tt9817298,Reality-TV
+Outlander,tt3006802,"Drama,Fantasy,Romance"
+On My Block,tt7879820,"Comedy,Drama"
+Formula 1,,
+Black Mirror,tt2085059,"Drama,Mystery,Sci-Fi"
+Miraculous,tt26563458,Comedy
+Sam & Cat,tt2487090,"Comedy,Drama,Family"
+Blindspot,,
+H2O,tt0410055,Drama
+Murdoch Mysteries,tt1091909,"Crime,Drama,Mystery"
+Gotham,,
+The Seven Deadly Sins,tt3909224,"Action,Adventure,Animation"
+Bones,,
+Virgin River,tt9077530,"Drama,Romance"
+Vikings,tt2306299,"Action,Adventure,Drama"
+Last Man Standing,,
+Animal Kingdom,,
+The Secret Life of the American Teenager,tt1179817,"Comedy,Drama,Family"
+Shark Tank,,
+RuPaul's Drag Race,tt1353056,"Game-Show,Reality-TV"
+Forensic Files,tt0247882,"Crime,Documentary"
+Good Girls,,
+The Ranch,,
+Merlin,,
+Dragons' Den,,
+Bob's Burgers,tt1561755,"Animation,Comedy"
+Peppa Pig,tt0426769,"Adventure,Animation,Comedy"
+Sword Art Online,,
+Black Money Love,tt3565486,"Action,Crime,Drama"
+Heartland,,
+Blue Mountain State,tt1344204,"Comedy,Sport"
+Drop Dead Diva,tt1280822,"Comedy,Drama"
+The Disastrous Life of Saiki K.,tt6354518,"Animation,Comedy,Fantasy"
+"Nicky, Ricky, Dicky & Dawn",tt3596176,"Comedy,Family"
+The Last Kingdom,tt4179452,"Action,Drama,History"
+Homeland,,
+The Circle,,
+Mr. D,tt2128016,Comedy
+Criminal Minds,,
+Crash Landing on You,tt10850932,"Adventure,Comedy,Romance"
+"House, M.D.",,
+Haikyu!!,tt3398540,"Animation,Comedy,Drama"
+Quantico,tt4428122,"Crime,Drama,Mystery"
+Bella and the Bulldogs,tt3596178,"Comedy,Family,Sport"
+A Series of Unfortunate Events,tt4834206,"Adventure,Comedy,Drama"
+Shadowhunters,tt4145054,"Action,Drama,Fantasy"
+Comedians in Cars Getting Coffee,tt2314952,"Comedy,Family,Talk-Show"
+Scrubs,tt0285403,"Comedy,Drama"
+Marvel's Daredevil,,
+Dead to Me,tt8064302,"Comedy,Crime,Drama"
+Mad Men,tt0804503,Drama
+Pac-Man and the Ghostly Adventures,tt2392179,"Action,Adventure,Animation"
+Drake & Josh,tt0363328,"Comedy,Family"
+The Queen's Gambit,,
+Unbreakable Kimmy Schmidt,tt3339966,Comedy
+Dawson's Creek,tt0118300,"Drama,Romance"
+Workin' Moms,tt6143796,"Comedy,Drama"
+Lethal Weapon,tt5164196,"Action,Adventure,Comedy"
+The Witcher,tt5180504,"Action,Adventure,Drama"
+Mako Mermaids,tt2548214,"Adventure,Comedy,Drama"
+Elite,tt7134908,"Crime,Drama,Thriller"
+One Day at a Time,,
+Nailed It!,tt6987788,"Game-Show,Reality-TV"
+Attack on Titan,tt2560140,"Action,Adventure,Animation"
+Tiger King,tt11823076,"Biography,Crime,Documentary"
+Everybody Loves Raymond,tt0115167,Comedy
+White Collar,tt1358522,"Comedy,Crime,Drama"
+Lost,,
+Lost in Space,,
+Friday Night Lights,tt0758745,"Drama,Sport"
+Dexter,tt0773262,"Crime,Drama,Mystery"
+The X-Files,tt0106179,"Crime,Drama,Mystery"
+Marvel's Jessica Jones,,
+Marvel's The Punisher,,
+Yu-Gi-Oh!,,
+Law & Order,tt0098844,"Crime,Drama,Mystery"
+The Great Canadian Baking Show,tt7332358,Reality-TV
+Atypical,tt6315640,"Comedy,Drama"
+MINDHUNTER,,
+Total Drama,tt1173427,"Action,Adventure,Animation"
+Numberblocks,tt7978538,"Adventure,Animation,Family"
+CoComelon,,
+Sherlock,,
+"Love, Death & Robots",tt9561862,"Action,Adventure,Animation"
+Impractical Jokers,,
+Ben & Holly's Little Kingdom,tt1436544,"Adventure,Animation,Comedy"
+Terrace House,,
+Chicago Med,tt4655480,Drama
+Chilling Adventures of Sabrina,tt7569592,"Drama,Fantasy,Horror"
+Titans,,
+Weeds,tt0439100,"Comedy,Crime,Drama"
+Nashville,,
+The Legend of Korra,tt1695360,"Action,Adventure,Animation"
+Fullmetal Alchemist,tt0421357,"Action,Adventure,Animation"
+Fairy Tail,tt1528406,"Action,Adventure,Animation"
+Queen of the South,tt1064899,"Action,Crime,Drama"
+Insatiable,,
+New Amsterdam,,
+Degrassi,tt17042406,"Drama,Romance"
+ALVINNN!!! And the Chipmunks,,
+iZombie,tt3501584,"Comedy,Crime,Drama"
+Top Boy,tt1830379,"Crime,Drama,Thriller"
+Pocoyo,tt0487849,"Animation,Comedy,Family"
+Disenchantment,tt5363918,"Action,Adventure,Animation"
+Alexa & Katie,tt6916746,"Comedy,Drama,Family"
+Raising Hope,,
+Rick and Morty,tt2861424,"Adventure,Animation,Comedy"
+Trollhunters,,
+Mom,,
+Dance Academy,tt1551948,"Drama,Family,Music"
+Resurrection,,
+Top Gear,,
+F is for Family,,
+Inventing Anna,,
+Project McÂ²,,
+Paradise PD,tt8235236,"Action,Animation,Comedy"
+Last Chance U,,
+Highway to Heaven,tt0086730,"Drama,Fantasy"
+Marvel's Luke Cage,,
+Ever After High,tt3312378,"Adventure,Animation,Comedy"
+Kath and Kim,,
+Greenhouse Academy,tt6076336,"Adventure,Comedy,Drama"
+Bloodline,tt3520702,"Drama,Thriller"
+The Wiggles,tt0454656,"Adventure,Comedy,Family"
+Ultimate Spider-Man,tt1722512,"Action,Adventure,Animation"
+Vincenzo,,
+The Sinner,tt6048596,"Crime,Drama,Mystery"
+It's Okay to Not Be Okay,,
+Richie Rich,,
+True and the Rainbow Kingdom,tt5607658,"Adventure,Animation,Comedy"
+Bleach,,
+Marvel's Iron Fist,,
+Explained,,
+One-Punch Man,,
+Dark,tt5753856,"Crime,Drama,Mystery"
+Santa Clarita Diet,tt5580540,"Comedy,Horror"
+Bates Motel,tt2188671,"Drama,Horror,Mystery"
+The End of the F***ing World,tt6257970,"Adventure,Comedy,Crime"
+Futurama,,
+Space Force,tt9612516,Comedy
+Locke & Key,tt3007572,"Drama,Fantasy,Horror"
+Call the Midwife,tt1983079,"Drama,History"
+Sex/Life,,
+The Originals,tt2632424,"Drama,Fantasy,Horror"
+Sugar Rush,,
+A.P. Bio,tt6461726,Comedy
+LEGO,,
+Glow Up,,
+Chuck,tt0934814,"Action,Comedy,Drama"
+Transformers Prime,tt1659175,"Action,Adventure,Animation"
+Barbie Dreamhouse Adventures,tt7661472,"Animation,Comedy,Family"
+My Next Guest Needs No Introduction With David Letterman,,
+Greenleaf,tt4971144,Drama
+The Ultimatum,tt1682704,Drama
+Magi,,
+Scream Queens,,
+Doctor Who,,
+Zumbo's Just Desserts,tt7239256,"Game-Show,Reality-TV"
+Queer Eye,,
+Raising Dion,tt7826108,"Drama,Sci-Fi"
+Arrow,,
+All Hail King Julien,tt3807022,"Action,Adventure,Animation"
+American Horror Story,tt1844624,"Drama,Horror,Sci-Fi"
+Snowpiercer,tt6156584,"Action,Drama,Sci-Fi"
+Spirit Riding Free,tt6710836,"Action,Adventure,Animation"
+JoJo's Bizarre Adventure,tt2359704,"Action,Adventure,Animation"
+Barbie Life in the Dreamhouse,,
+Imposters,tt5212822,"Comedy,Crime,Drama"
+Chicago Fire,tt2261391,"Action,Drama"
+The IT Crowd,tt0487831,Comedy
+Young Justice,tt1641384,"Action,Adventure,Animation"
+The Epic Tales of Captain Underpants,tt7741830,"Action,Adventure,Animation"
+Girlfriends,,
+Mike Tyson Mysteries,tt3038546,"Adventure,Animation,Comedy"
+Ultimate Beastmaster,tt5607970,"Game-Show,Reality-TV"
+Hell on Wheels,tt1699748,"Drama,Western"
+LEGO Friends,,
+Making a Murderer,tt5189670,"Crime,Documentary"
+Octonauts,,
+The Last Man on Earth,tt3230454,"Action,Comedy,Drama"
+Unsolved Mysteries,,
+The Adventures of Puss in Boots,tt3807034,"Action,Adventure,Animation"
+Love (ft. Marriage and Divorce),,
+Business Proposal,tt14819828,"Comedy,Drama,Romance"
+Heroes,,
+One Tree Hill,tt0368530,"Drama,Romance,Sport"
+Wentworth,tt2433738,"Crime,Drama,Thriller"
+When Calls the Heart,tt2874692,"Drama,History,Romance"
+Pinky Malinky,tt5621544,"Animation,Comedy,Family"
+Family Reunion,,
+Love,,
+The Society,tt8778064,"Drama,Mystery,Sci-Fi"
+Derry Girls,tt7120662,Comedy
+K-On!,tt1410218,"Animation,Comedy,Drama"
+MeatEater,tt2169245,Documentary
+Bling Empire,tt13660962,Reality-TV
+Jeopardy!,,
+The Big Bang Theory,tt0898266,"Comedy,Romance"
+Z Nation,tt3843168,"Action,Comedy,Drama"
+Skins,,
+Ashes of Love,tt8976346,"Comedy,Drama,Fantasy"
+Scream,,
+Skin Wars,tt3231286,Reality-TV
+Haters Back Off,,
+Dirty John,tt7945720,"Crime,Drama"
+Cable Girls,tt5674718,Drama
+Limitless,,
+Timeless,,
+Greatest Events of WWII in Colour,,
+Cheer,,
+Lupin,,
+Marlon,tt5720168,Comedy
+"Pablo Escobar, el patrÃ³n del mal",,
+Mr. Iglesias,tt8403536,Comedy
+Hannibal,tt2243973,"Crime,Drama,Horror"
+Easy,,
+24,,
+Extraordinary Attorney Woo,tt20869502,Drama
+Talking Tom and Friends,tt4648640,"Adventure,Animation,Comedy"
+Teenage Mutant Ninja Turtles,,
+The Worst Witch,,
+Final Space,tt6317068,"Action,Adventure,Animation"
+The Dragon Prince,tt8688814,"Action,Adventure,Animation"
+Winx Club,tt0421482,"Action,Adventure,Animation"
+The Magic School Bus,tt0108847,"Adventure,Animation,Comedy"
+Patriot Act with Hasan Minhaj,tt8080054,"Comedy,News,Talk-Show"
+Altered Carbon,tt2261227,"Action,Drama,Sci-Fi"
+All of Us Are Dead,tt14169960,"Action,Drama,Fantasy"
+Brickleberry,tt2022713,"Animation,Comedy"
+My Name Is Earl,tt0460091,Comedy
+Indian Matchmaking,tt12580168,"Documentary,Family,News"
+Love Now,tt6273116,Drama
+Spartacus,,
+Start-Up,,
+Fauda,tt4565380,"Action,Drama,Thriller"
+Longmire,tt1836037,"Action,Crime,Drama"
+Blue Exorcist,tt1799631,"Action,Animation,Drama"
+Marco Polo,tt2189461,"Action,Adventure,Drama"
+Turbo FAST,tt3010520,"Action,Adventure,Animation"
+Master of None,tt4635276,"Comedy,Drama"
+Well-Intended Love,tt9886950,"Drama,Romance"
+The Princess Weiyoung,tt6353308,"Drama,History,Romance"
+Inside the Worldâ€™s Toughest Prisons,,
+Zig & Sharko,tt2046005,"Animation,Comedy,Family"
+Desperate Housewives,tt0410975,"Comedy,Drama,Mystery"
+StartUp,,
+Offspring,tt1530541,"Comedy,Drama"
+Legacies,tt8103070,"Adventure,Drama,Fantasy"
+The Deep,,
+The Order,,
+Hometown Cha-Cha-Cha,tt14518756,"Comedy,Drama,Romance"
+Roman Empire,tt6233538,"Biography,Documentary,Drama"
+The Final Table,,
+Real Detective,tt5299008,"Crime,Documentary,Drama"
+Sense8,tt2431438,"Drama,Mystery,Sci-Fi"
+The Lincoln Lawyer,tt13833978,"Crime,Drama,Mystery"
+Itaewon Class,tt11239552,"Drama,Romance"
+Dora the Explorer,,
+Kingdom,,
+El Chapo,tt6692188,"Biography,Crime,Drama"
+Chef's Table,tt4295140,"Biography,Documentary"
+Your lie in April,,
+Henry Danger,tt3596174,"Action,Comedy,Family"
+Arcane,tt11126994,"Action,Adventure,Animation"
+BAKI,,
+Shadow and Bone,tt2403776,"Action,Adventure,Drama"
+Blown Away,,
+Broadchurch,tt2249364,"Crime,Drama,Mystery"
+The Big Family Cooking Showdown,tt7518558,Reality-TV
+Love Is in the Air,,
+Inheritors,,
+Casual,,
+Cleo & Cuquin,tt7956374,"Animation,Family"
+Gabby's Dollhouse,tt9165438,"Adventure,Animation,Comedy"
+Brain Games,tt2078690,"Comedy,Documentary,Game-Show"
+Car Masters,,
+West Coast Customs,tt3017438,Reality-TV
+Friends from College,tt5565334,"Comedy,Drama"
+Bunk'd,tt4591680,"Comedy,Drama,Family"
+The Fairly OddParents,tt0235918,"Adventure,Animation,Comedy"
+Anne,,
+Jessie,,
+After Life,tt8398600,"Comedy,Drama"
+Dear White People,tt5707802,"Comedy,Drama"
+Stargate SG-1,tt0118480,"Action,Adventure,Drama"
+Black Lightning,tt6045840,"Action,Drama,Sci-Fi"
+0.03,,
+Fabulous Lives of Bollywood Wives,tt13452100,"Documentary,Reality-TV,Romance"
+Unfabulous,tt0416435,"Comedy,Drama,Family"
+Who Killed Sara?,tt11937816,"Crime,Drama,Mystery"
+Do Do Sol Sol La La Sol,,
+Dark Desire,tt12540080,"Drama,Mystery,Thriller"
+Kuroko's Basketball,tt2348803,"Animation,Comedy,Sport"
+Ratched,tt7423538,"Crime,Drama,History"
+Love Cheque Charge,tt6357262,Drama
+My First First Love,tt8995604,"Drama,Romance"
+Boys Over Flowers,,
+Salvation,tt6170874,"Drama,Sci-Fi,Thriller"
+Bodyguard,tt7493974,"Crime,Drama,Thriller"
+Van Helsing,tt5197820,"Action,Drama,Fantasy"
+Rhythm + Flow,tt9278032,"Music,Reality-TV"
+R.L. Stine's The Haunting Hour,,
+No Good Nick,tt9039142,"Comedy,Drama,Family"
+I AM A KILLER,,
+School of Rock,,
+It's Always Sunny in Philadelphia,tt0472954,Comedy
+Toradora!,tt1279024,"Animation,Comedy,Drama"
+Meteor Garden,,
+Psych,tt0491738,"Comedy,Crime,Mystery"
+Magic for Humans,tt8425308,"Comedy,Reality-TV"
+The Looney Tunes Show,,
+Travelers,,
+American Vandal,tt6877772,"Comedy,Crime,Drama"
+Mr. Sunshine,,
+Dark Matter,,
+My Secret Romance,tt6300100,"Comedy,Romance"
+Power Rangers Ninja Steel,tt5335606,"Action,Adventure,Comedy"
+Norsemen,,
+The Kominsky Method,tt7255502,"Comedy,Drama"
+Cursed,,
+Marvel's The Defenders,,
+Reign,tt2710394,Drama
+Down to Earth with Zac Efron,tt12585152,"Documentary,History,Reality-TV"
+Fargo,tt2802850,"Crime,Drama,Thriller"
+Our Beloved Summer,tt15026724,"Drama,Romance"
+Parenthood,,
+Happy Endings,,
+Goosebumps,,
+LoliRock,tt4506998,"Action,Adventure,Animation"
+Marvel's Agents of S.H.I.E.L.D.,,
+Trinkets,tt9134194,"Comedy,Crime,Drama"
+Freaks and Geeks,tt0193676,"Comedy,Drama"
+Lee Daniels' Star,,
+Surviving Escobar - Alias JJ,,
+The OA,tt4635282,"Drama,Fantasy,Mystery"
+Man Like Mobeen,tt7639280,Comedy
+The Magic School Bus Rides Again,tt3869122,"Adventure,Animation,Family"
+The Irregular at Magic High School,tt3874528,"Action,Animation,Drama"
+Great News,,
+Cinderella and the Four Knights,tt5764414,"Comedy,Romance"
+Romance Is a Bonus Book,tt9130542,"Comedy,Drama,Romance"
+Storage Wars,tt1785123,Reality-TV
+The Rational Life,tt14376958,"Drama,Romance"
+Kenny vs. Spenny,tt0384746,"Comedy,Game-Show,Reality-TV"
+GLOW,tt5770786,"Comedy,Drama,Sport"
+A Love So Beautiful,,
+Abby Hatcher,,
+Cold Case Files Classic,,
+Kill la Kill,,
+Walking with Dinosaurs,,
+PIECES OF HER,,
+Justice League Unlimited,tt6025022,"Action,Adventure,Animation"
+The Alienist,tt4604612,"Crime,Drama,Mystery"
+The Musketeers,tt2733252,"Adventure,Drama"
+The Rain,tt6656238,"Drama,Sci-Fi,Thriller"
+Grizzy and the Lemmings,tt6717058,"Adventure,Animation,Comedy"
+America's Funniest Home Videos,tt0098740,"Comedy,Family,Reality-TV"
+Colony,tt4209256,"Action,Adventure,Drama"
+Is It Cake?,tt18314214,"Game-Show,Reality-TV"
+Larva,tt6966158,"Adventure,Animation,Comedy"
+The Twilight Zone (Original Series),,
+Phineas and Ferb,tt0852863,"Action,Adventure,Animation"
+The Good Doctor,tt6470478,Drama
+House of Anubis,tt1638319,"Adventure,Drama,Family"
+Maid-Sama!,,
+PokÃ©mon Master Journeys,,
+Dirty Money,,
+Get Organized with The Home Edit,,
+Lie to Me,,
+Rookie Historian Goo Hae-Ryung,tt10406128,"Comedy,Drama,History"
+Russian Doll,tt7520794,"Comedy,Drama,Mystery"
+Don't Trust the B---- in Apartment 23,tt1819509,Comedy
+How the Universe Works,tt1832668,Documentary
+Into the Badlands,tt3865236,"Action,Adventure,Drama"
+L.A.â€™s Finest,,
+History 101,tt11958648,"Documentary,History"
+South Park,tt0121955,"Animation,Comedy"
+The Guardian,,
+Floor Is Lava,tt12370124,Game-Show
+Away,,
+Midnight Diner,tt1882928,Drama
+You vs. Wild,tt10044952,"Adventure,Reality-TV"
+She-Ra and the Princesses of Power,tt7745956,"Action,Adventure,Animation"
+Living with Yourself,tt8880894,"Comedy,Drama,Sci-Fi"
+Game Shakers,tt4711184,"Comedy,Family"
+Alice in Borderland,tt10795658,"Action,Drama,Mystery"
+Love Alarm,tt9145880,"Comedy,Drama,Romance"
+Maggie & Bianca,,
+Close Enough,,
+Black Summer,tt8923854,"Action,Drama,Horror"
